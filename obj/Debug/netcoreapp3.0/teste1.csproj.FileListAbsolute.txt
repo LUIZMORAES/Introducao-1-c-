@@ -1,0 +1,11 @@
+C:\xampp\htdocs\avanade\teste1\bin\Debug\netcoreapp3.0\teste1.exe
+C:\xampp\htdocs\avanade\teste1\bin\Debug\netcoreapp3.0\teste1.deps.json
+C:\xampp\htdocs\avanade\teste1\bin\Debug\netcoreapp3.0\teste1.runtimeconfig.json
+C:\xampp\htdocs\avanade\teste1\bin\Debug\netcoreapp3.0\teste1.runtimeconfig.dev.json
+C:\xampp\htdocs\avanade\teste1\bin\Debug\netcoreapp3.0\teste1.dll
+C:\xampp\htdocs\avanade\teste1\bin\Debug\netcoreapp3.0\teste1.pdb
+C:\xampp\htdocs\avanade\teste1\obj\Debug\netcoreapp3.0\teste1.csprojAssemblyReference.cache
+C:\xampp\htdocs\avanade\teste1\obj\Debug\netcoreapp3.0\teste1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\avanade\teste1\obj\Debug\netcoreapp3.0\teste1.AssemblyInfo.cs
+C:\xampp\htdocs\avanade\teste1\obj\Debug\netcoreapp3.0\teste1.dll
+C:\xampp\htdocs\avanade\teste1\obj\Debug\netcoreapp3.0\teste1.pdb
